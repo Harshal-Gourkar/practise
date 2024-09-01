@@ -30,10 +30,15 @@ public class A{
 		System.out.println("A work");
 	}
 	
+
 	public void Work(){
 		System.out.println("A work");
 	}
 
-		
+
+	public void zWork(){
+		System.out.println("A work");
+	}
+	
 
 }
