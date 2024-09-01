@@ -21,6 +21,15 @@ public class A{
 	public void intd002Work(){
 		System.out.println("A work");
 	}
-
+	
+	public void bWork(){
+		System.out.println("A work");
+	}
+	
+	public void BWork(){
+		System.out.println("A work");
+	}
+	
+		
 
 }
