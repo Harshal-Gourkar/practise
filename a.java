@@ -1,7 +1,7 @@
 public class A{
 
 	public void harshalWork(){
-		System.out.println("my work");
+		System.out.println("Harshal work");
 	}
 
 	
@@ -12,7 +12,10 @@ public class A{
 	public void AWork(){
 		System.out.println("A work");
 	}
-	
+
+	public void intd002Work(){
+		System.out.println("A work");
+	}
 
 
 }
